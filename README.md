@@ -1,2 +1,2 @@
 # Machine_learning
-Hi there  
+Unleashing the power of data through the magic of machine learning
